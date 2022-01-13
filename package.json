@@ -1,0 +1,32 @@
+{
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  },
+  "dependencies": {
+    "colors": "^1.4.0",
+    "express": "^4.17.2",
+    "git": "^0.1.5"
+  },
+  "name": "js-curso",
+  "version": "1.0.0",
+  "description": "Un curso de NodeJS",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wvaras77/curso-node-principiantes.git"
+  },
+  "keywords": [
+    "nodejs",
+    "node",
+    "javascript"
+  ],
+  "author": "Luciano Varas",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wvaras77/curso-node-principiantes/issues"
+  },
+  "homepage": "https://github.com/wvaras77/curso-node-principiantes#readme"
+}
