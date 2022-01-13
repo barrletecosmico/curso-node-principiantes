@@ -14,6 +14,8 @@ const colors = require('colors');
 //     console.log('Server on port 3000'.rainbow);
 // });
 
+console.log('Anda lindo');
+
 const express = require('express');
 const res = require('express/lib/response');
 const server = express();
